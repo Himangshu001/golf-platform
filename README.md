@@ -88,7 +88,10 @@ npm run dev
 4. Click **Run Draw** to see results
 5. Select a charity and save it
 6. Click **Subscribe** to test payment flow
-
+7. To navigate to the **Admin page** use these credentials then login :  
+Email = himangshupramanik03@gmail.com 
+Password = 112233 
+also change the address from /dashboard to /admin
 ---
 
 ## 💳 Testing Payments (Stripe)
